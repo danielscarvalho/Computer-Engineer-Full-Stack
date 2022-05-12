@@ -14,7 +14,7 @@ Front-End:
 Back-End:
 
 - Maven, Git & GitHub
-- Java (Spring Boot, Spark Java, Micronalt, Jersey)
+- Java (Spring Boot, Spark Java, Micronaut, Jersey)
 - MySQL
 - MongoDB
 - The CRUD pattern
