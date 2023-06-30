@@ -8,7 +8,7 @@ Front-End:
 - HTML
 - CSS (Grid, Flex)
 - JavaScript + DOM
-- React (or VueJS, Angular, Svetle)
+- React (or Ionic, VueJS, Angular, Svetle)
 - Bootstrap
 
 Back-End:
